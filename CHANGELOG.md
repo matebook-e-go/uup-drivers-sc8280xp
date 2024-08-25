@@ -339,3 +339,18 @@
 | Driver version | Package |
 |----------------|---------|
 | 0.2.1.6 | gkq83216.cab |
+
+## HUAWEI - System Hardware Update - 4/26/2024 - 200.0.10.0
+
+### Updated
+
+| Driver version | Package |
+|----------------|---------|
+| 27.0.4.20 | OemXAudioExt_Histen.cab |
+| 27.0.4.21 | OemXAudioExt_HiVA.cab |
+| 27.0.4.21 | OemXAudioExt_Service.cab |
+| 27.0.4.23 | HistenAPO.cab |
+| 27.0.4.25 | HiVAAPO.cab |
+| 27.0.4.27 | HWAudioService.cab |
+| 27.0.4.30 | OemXAudioExt_HWVE.cab |
+| 27.0.4.33 | HWVEAPO.cab |
